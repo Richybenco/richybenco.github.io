@@ -1,1 +1,4 @@
 google.com, pub-8887980314186674, DIRECT, f08c47fec0942fa0
+# AYET-STUDIOS 
+ayetstudios.com, AYETSTUDIOS, DIRECTO 
+ayetstudios.com, PL-22469, DIRECTO
