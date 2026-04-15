@@ -3,3 +3,6 @@ google.com, pub-8887980314186674, DIRECT, f08c47fec0942fa0
 
 # AYET-STUDIOS
 ayetstudios.com, 22469, DIRECT
+
+# Unity Ads
+unity3d.com, 2404, DIRECT, f08c47fec0942fa0
